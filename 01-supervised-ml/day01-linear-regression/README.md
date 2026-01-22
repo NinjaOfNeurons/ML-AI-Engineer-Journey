@@ -1,9 +1,5 @@
 # Machine Learning – Important Notes (Concise)
 
-> 📌 **Focused, exam + interview + revision ready notes**
-> Only **important concepts** kept, noise removed.
-
----
 
 ## 1. Learning Types
 
